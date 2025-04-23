@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ORDER-1745388543282",
+    "productId": "P001",
+    "name": "Soccer Ball",
+    "price": 120000,
+    "paymentStatus": "settled",
+    "createdAt": "2025-04-23T06:09:03.282Z",
+    "updatedAt": "2025-04-23T06:09:14.444Z"
+  },
+  {
+    "id": "ORDER-1745389314714",
+    "productId": "P002",
+    "name": "Basketball",
+    "price": 150000,
+    "paymentStatus": "settled",
+    "createdAt": "2025-04-23T06:21:54.714Z",
+    "updatedAt": "2025-04-23T06:22:06.665Z"
+  }
+]
